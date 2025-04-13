@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T18:18:28 IST" name="Suite" finished-at="2025-04-13T18:19:19 IST" duration-ms="50711">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T18:18:28 IST" name="Test" finished-at="2025-04-13T18:19:19 IST" duration-ms="50711">
+      <class name="testcases.RunLogin">
+        <test-method is-config="true" signature="preCondn()[pri:0, instance:testcases.RunLogin@1a942c18]" started-at="2025-04-13T18:18:28 IST" name="preCondn" finished-at="2025-04-13T18:18:55 IST" duration-ms="26625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondn -->
+        <test-method signature="runLogin()[pri:0, instance:testcases.RunLogin@1a942c18]" started-at="2025-04-13T18:18:55 IST" name="runLogin" finished-at="2025-04-13T18:19:09 IST" duration-ms="13982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="postCondn()[pri:0, instance:testcases.RunLogin@1a942c18]" started-at="2025-04-13T18:19:09 IST" name="postCondn" finished-at="2025-04-13T18:19:13 IST" duration-ms="3527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondn -->
+      </class> <!-- testcases.RunLogin -->
+      <class name="testcases.RunCreateLead">
+        <test-method is-config="true" signature="preCondn()[pri:0, instance:testcases.RunCreateLead@2034b64c]" started-at="2025-04-13T18:18:28 IST" name="preCondn" finished-at="2025-04-13T18:18:56 IST" duration-ms="27439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondn -->
+        <test-method signature="runCreateLead()[pri:0, instance:testcases.RunCreateLead@2034b64c]" started-at="2025-04-13T18:18:56 IST" name="runCreateLead" finished-at="2025-04-13T18:19:18 IST" duration-ms="22501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method is-config="true" signature="postCondn()[pri:0, instance:testcases.RunCreateLead@2034b64c]" started-at="2025-04-13T18:19:18 IST" name="postCondn" finished-at="2025-04-13T18:19:19 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondn -->
+      </class> <!-- testcases.RunCreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
